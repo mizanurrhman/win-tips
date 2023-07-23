@@ -10,4 +10,10 @@
 >> privacy & Security > warn you if password are exposed in a data breach (uncheck)
 ---
 
-
+# Try To Finish   
+- CS50  
+- 100 days of Code  
+- Algorithms by princton university  
+- Meta front end developmer Professional Certificate  
+- System design 
+ 
